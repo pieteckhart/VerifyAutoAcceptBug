@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "environments": [
+    {
+      "name": "Docker Linux",
+      "type": "docker",
+      "dockerFile": "Dockerfile.test"
+    }
+  ]
+}
